@@ -36,14 +36,10 @@
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eduardovisa&show_icons=true&hide_border=true&locale=en&layout=compact" alt="eduardovisa" /></p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=eduardovisa&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eduardovisa&show_icons=true&hide_border=true&locale=en" alt="eduardovisa" /></p>
 
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardovisa&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eduardovisa&" alt="eduardovisa" /></p>
 
 <br/>  
