@@ -28,7 +28,7 @@
 
 <br/>  
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eduardovisa" alt="eduardovisa" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eduardovisa&rank=S,AA,A&theme=nord&no-bg=true&no-frame=true" alt="eduardovisa" /></a> </p>
 
 <br/>  
 
