@@ -30,5 +30,5 @@
 
 ## Github Trophies
 <p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eduardovisa&rank=AA,A,S&theme=nord&no-bg=true&no-frame=true&column=-1" alt="eduardovisa" /></a> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eduardovisa&rank=SSS,SS,S,AAA,AA,A&theme=nord&no-bg=true&no-frame=true&column=-1" alt="eduardovisa" /></a> 
 </p>
