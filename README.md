@@ -12,6 +12,12 @@
   
 <br/>  
 
+## 🚀 About Me
+
+Soy un apasionado del desarrollo web, la creatividad y la tecnología. En cada línea de código y en cada diseño, encuentro la oportunidad de crear experiencias únicas y sorprendentes en la web. Mi objetivo es combinar la elegancia estética con la funcionalidad impecable para dar vida a proyectos que destaquen y cautiven a los usuarios. La versatilidad del desarrollo web me inspira a explorar nuevas posibilidades y estar siempre al tanto de las últimas tendencias tecnológicas.
+
+<br/>  
+
 ## Languages and Tools  
 <div align="center">  
   <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
